@@ -1,8 +1,9 @@
 ## こんにちは 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null256code&layout=compact)
+こんにちは！私は普通のWebエンジニアです。<br />
+バックエンドを実装することが多いですが、フロントエンドの実装をすることもあります。
 
-### 自分のスキル
+### やったことあるもの
 
 さいきん
 
@@ -12,17 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,cs,dotnet&theme=light)](https://skillicons.dev)
 
-<!--
-**null256code/null256code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub Readme Stats
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null256code&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
